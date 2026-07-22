@@ -99,9 +99,9 @@ Check out my pinned repositories for additional full-stack and IoT projects, inc
 - 🥉 Participated in **SatHack** (Thapar University, November 2025)
 - 🎤 Coordinated **Technavya** — GLA University's Technical Fest (February 2025)
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anxnt-goyl&theme=darkhub&no-frame=true&row=1&column=6" alt="trophies" />
-</div>
+</div> -->
 
 ---
 
