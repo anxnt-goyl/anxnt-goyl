@@ -1,50 +1,233 @@
 <div align="center">
-<h2 align="left">Hi 👋! My name is Anant Goyal and I'm a Student , from Mathura</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anxnt-goyl&label=Profile%20views&color=0e75b6&style=flat" alt="anxnt-goyl" /> </p>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height="400" alt="streak graph"  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5FA&height=200&section=header&text=Anant%20Goyal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20IoT%20%2B%20ML%20Builder&descAlignY=55&descSize=18" alt="header banner" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+that+ship;Turning+IoT+%2B+ML+ideas+into+products;B.Tech+CS+%40+GLA+University%2C+Mathura;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=anxnt-goyl&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+
 </div>
 
-###
+---
+
+### 🧠 About Me
+
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ce.gif">
+
+- 🎓 B.Tech Computer Science student at **GLA University, Mathura**
+- 💻 Full Stack Developer, building with the **MERN stack**
+- 🌐 Exploring **IoT + Machine Learning** for real-world problem solving
+- 🚀 Recently built **ListForge AI**, a multi-agent AI listing platform, in a 48-hour hackathon
+- 📈 Solved **100+ DSA problems** on LeetCode
+- 😄 Fun fact: I treat debugging like solving a mystery 🕵️
+- 📫 Reach me at **goyalanant4991@gmail.com**
+
+<br clear="both"/>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,java,c,mysql,firebase,git&theme=dark" alt="tech stack icons" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 [ListForge AI](https://github.com/anxnt-goyl/ListForge)**
+
+AI-powered platform that generates SEO-optimized product listings for Amazon, Shopify & Flipkart via a multi-agent pipeline, with a human-in-the-loop review workflow. Built in 48 hours for a national hackathon.
+
+`React 19` `TypeScript` `Express` `Gemini AI` `Supabase` `n8n`
+
+[🔗 Live Demo](https://list-forge-gamma.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+**🏥 Patient Suffering Intelligence System**
+
+Real-time dashboard that monitors and displays patient suffering scores with environmental condition tracking and automatic threshold-based alerts.
+
+`Node.js` `JavaScript` `HTML` `CSS`
+
+Deployed: Frontend on Vercel · Backend on Render
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**💊 Swasthya Setu**
+
+IoT-based monitoring dashboard tracking temperature, humidity, gas levels & GPS to ensure safe storage of vaccines and medicines, streaming live sensor data via Firebase.
+
+`HTML` `CSS` `JavaScript` `Firebase Realtime DB` `ESP8266` `IoT`
+
+</td>
+<td width="50%" valign="top">
+
+**🏨 More on GitHub**
+
+Check out my pinned repositories for additional full-stack and IoT projects, including work from my Full Stack Development training at GLA University.
+
+[🔗 View all repos](https://github.com/anxnt-goyl?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏆 Achievements
+
+- ✅ Certified in Full Stack Development — **Oneroadmap**
+- 🥇 Participated in **Hackamaina** (The Elites, May 2025)
+- 🥈 Participated in **Deviathon** (GLA University, October 2025)
+- 🥉 Participated in **SatHack** (Thapar University, November 2025)
+- 🎤 Coordinated **Technavya** — GLA University's Technical Fest (February 2025)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anxnt-goyl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=anxnt-goyl&theme=darkhub&no-frame=true&row=1&column=6" alt="trophies" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai_117038-5477.jpg?w=900"  />
+### 📊 GitHub Stats
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/anxnt-goyl/anxnt-goyl/main/profile-summary-cards/github_dark/0-profile-details.svg" width="45%" alt="profile details" />
+  <img src="https://streak-stats.demolab.com/?user=anxnt-goyl&theme=tokyonight&hide_border=true" width="45%" alt="streak" />
 </div>
 
-###
-
-<div align="left">
-
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/anxnt-goyl/anxnt-goyl/main/profile-summary-cards/github_dark/1-repos-per-language.svg" width="45%" alt="languages" />
+  <img src="https://raw.githubusercontent.com/anxnt-goyl/anxnt-goyl/main/profile-summary-cards/github_dark/3-stats.svg" width="45%" alt="stats" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anxnt-goyl&theme=tokyo-night&hide_border=true" width="90%" alt="activity graph"/>
+</div>
 
-<br clear="both">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/anxnt-goyl/anxnt-goyl/output/github-contribution-grid-snake-dark.svg" width="90%" alt="contribution snake"/>
+</div>
 
-###
+> 💡 The profile-summary cards and the snake are both generated by GitHub Actions that live in this same repo — see the **Setup** note at the bottom of this file. They regenerate on a schedule and never depend on a third-party server, so they can't be "paused by the owner" the way the old stats card was.
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/anant-goyal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:goyalanant4991@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+  <a href="https://github.com/anxnt-goyl" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+</p>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="90"/>
+
+### *"Build solutions that matter."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:0E75B6&height=100&section=footer" width="100%"/>
+
+</div>
+
+---
+
+<details>
+<summary><strong>⚙️ One-time setup: profile cards, snake & GIFs (click to expand)</strong></summary>
+
+<br/>
+
+Both the **profile stats/language cards** and the **contribution snake** are generated by GitHub Actions that live in this repo (`anxnt-goyl/anxnt-goyl`) and commit their output as static files — nothing depends on a third-party server that can go down or get "paused."
+
+**1. Profile summary cards (stats + top languages)**
+
+Create `.github/workflows/profile-cards.yml`:
+
+```yaml
+name: Generate Profile Cards
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate profile summary cards
+    steps:
+      - name: Generate cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          user: anxnt-goyl
+          theme: github_dark
+```
+
+- `GH_TOKEN` needs to be a **personal access token** (classic, `repo` scope) saved as a repo secret named `GH_TOKEN` — the default `GITHUB_TOKEN` doesn't have enough permission for this action. Create one at GitHub → Settings → Developer settings → Personal access tokens, then add it under this repo's Settings → Secrets and variables → Actions.
+- Run the workflow once from the **Actions** tab. It'll commit a `profile-summary-cards/` folder with the SVGs this README already points to.
+
+**2. Contribution snake**
+
+Create `.github/workflows/snake.yml`:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: anxnt-goyl
+          outputs: dist/github-contribution-grid-snake.svg?palette=github-dark
+                   dist/github-contribution-grid-snake-dark.svg
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Run it once from the **Actions** tab the same way.
+
+**3. Everything else**
+
+All GIFs (banner, coding gif, wave gif) and the trophies/activity-graph cards are hotlinked from public URLs — no setup needed, they'll just work.
+
+</details>
