@@ -130,7 +130,7 @@ Check out my pinned repositories for additional full-stack and IoT projects, inc
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/anant-goyal" target="_blank">
+  <a href="https://www.linkedin.com/in/anant-goyal-296524326" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="mailto:goyalanant4991@gmail.com">
